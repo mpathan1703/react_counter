@@ -1,0 +1,19 @@
+.m_todo_main{
+   background: #333333;
+margin: 30px 30px;
+padding: 20px 20px;
+border-radius: 25px;
+
+}
+.m_todo_container{
+    background: #444444;
+     width: 60%;
+     padding: 10px 10px;
+   
+}
+
+.m_list_conainer{
+ 
+   background:#444444;
+
+}
